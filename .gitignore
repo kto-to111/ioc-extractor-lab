@@ -1,4 +1,5 @@
 .env
 outputs/
 __pycache__/
-.pycsecrets.txt
+.pyc
+secrets.txt
